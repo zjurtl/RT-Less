@@ -1,8 +1,6 @@
 # RT-Less：A RGB Dataset for 6D Pose Estimation of **R**eflective **T**exture-**L**ess Object
 
-----
-
-[Xinyue Zhao,](https://person.zju.edu.cn/0012074)[Yue Chao,](https://github.com/transcend-lzy/RTL-toolbox)[Quanzhi Li,]()[Quanyou Wang,]()[Zaixing He*](https://person.zju.edu.cn/zaixinghe)
+[Xinyue Zhao](https://person.zju.edu.cn/0012074), [Quanzhi Li](), [Yue Chao](https://github.com/transcend-lzy/RTL-toolbox), [Quanyou Wang](), [Zaixing He*](https://person.zju.edu.cn/zaixinghe)
 
 - A Multi-Scene Image Dataset for Pose Estimation
 - **Large public unique dataset:** RTL contains 258K real and synthetic images of reflective texture-less metal parts.
@@ -15,13 +13,13 @@
 
 ![img](https://cdn.jsdelivr.net/gh/lqz123/ImageBucket/images/obj.png)
 
-38 reflective texture-less machined parts with typical industrial features.
+**38 reflective texture-less machined parts with typical industrial features.**
 
 ## **SCENES**
 
-![scene](https://cdn.jsdelivr.net/gh/lqz123/ImageBucket/images/scene.png)
+![image-20231029213329138](https://cdn.jsdelivr.net/gh/lqz123/ImageBucket/images/image-20231029213329138.png)
 
-32 scenes simulate real scenes in terms of parts placement, parts types and shape, lighting, background, etc.
+**32 scenes simulate real scenes in terms of parts placement, parts types and shape, lighting, background, etc.**
 
 ## USAGE
 
