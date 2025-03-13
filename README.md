@@ -45,18 +45,4 @@ Toolbox
 
 ## DOWNLOAD
 
-CAD Models
-
-| [Sldprt models](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [Ply models](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [Stl models](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [models BOP format](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) |
-
-Infos
-
-| [obj_infos](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [scene_infos](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) |
-
-Objects
-
-| [Objects Real(512×512)](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [Objects Render(512×512)](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [Objects Real(2448×2048)](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) |
-
-Scenes
-
-| [Scenes Real(512×512)](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) | [Scenes Real(2448×2048)](https://onedrive.live.com/?id=701F68267131112C!948&cid=701F68267131112C) |
+[Download RT-Less Dataset](https://www.zju-rtl.cn/)
